@@ -26,7 +26,7 @@ The dataset contains customer-related information such as:
 **Target Variable:**  
 `Churn` (Yes / No)
 
-## ⚙️ Methodology
+## Methodology
 1. Data Cleaning and Preprocessing
 2. Feature Encoding and Scaling
 3. Train-Test Split
